@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+        <title>متجر نباتات المنزل</title>
+            <link rel="stylesheet" href="css/style.css">
+            </head>
+            <body>
+                <header>
+                        <h1>نباتاتي الخضراء</h1>
+                                <nav>
+                                            <a href="index.html">الرئيسية</a>
+                                                        <a href="products.html">المنتجات</a>
+                                                                    <a href="cart.html">السلة (<span id="cart-count">0</span>)</a>
+                                                                            </nav>
+                                                                                </header>
+
+                                                                                    <main id="landing-page">
+                                                                                            <div class="hero">
+                                                                                                        <h2>أجمل النباتات لمنزلك</h2>
+                                                                                                                    <p>اكتشف مجموعة واسعة من النباتات المنزلية التي تنقي الهواء وتضيف جمالاً لمساحتك</p>
+                                                                                                                                <a href="products.html" class="btn">تصفح المنتجات</a>
+                                                                                                                                        </div>
+                                                                                                                                            </main>
+
+                                                                                                                                                <script src="js/store.js"></script>
+                                                                                                                                                </body>
+                                                                                                                                                </html>
